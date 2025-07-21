@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("signalR-server-webapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed62f0aa8244be09bc724a52b67c81d4931c162d")]
 [assembly: System.Reflection.AssemblyProductAttribute("signalR-server-webapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("signalR-server-webapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
